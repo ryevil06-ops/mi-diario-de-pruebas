@@ -1,1 +1,2 @@
 Hoy aprendi a usar GitHub Desktop
+El flujo de Commit y Push es mucho más claro que con la terminal.
