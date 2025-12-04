@@ -1,1 +1,4 @@
-# mi-diario-de-pruebas
+# Diario de Pruebas de Git
+
+## Proyectos
+- Ejercicio de Commits y Reversiones
