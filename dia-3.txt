@@ -1,2 +1,3 @@
 Entrada del dia 3: Hoy el proyecto empezo con el pie derecho.
 Añadi mas detalles sobre los planes a futuro.
+Esta linea es la que no deberia ir en el documento.
